@@ -7,4 +7,4 @@
 	url = https://github.com/lli289/avgas
 [submodule "hySAINT"]
 	path = hySAINT
-	url = https://github.com/cran/hySAINT
+	url = https://github.com/lli289/hysaint
